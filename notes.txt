@@ -1,0 +1,41 @@
+
+
+01-setup            "version": "1.0.1",
+02-user-model       "version": "1.0.2",
+03-auth-middleware  "version": "1.0.3",
+04-auth-routes      "version": "1.0.4",
+05-profiles   
+06-articles
+07-favorites   
+08-comments   
+09-following   
+10-tags
+11-tests
+
+=====================
+git checkout -b feature1
+    which moved me onto featured branch, is this also consided the "working tree"
+    Do some work
+
+git add -A
+
+git commit -m "comment"
+
+git push
+    except you need to push upstream, the instructions come to you
+
+git checkout master
+    moved me back onto master,
+    getting ready to push to GitHub
+
+git pull
+
+git merge feature1
+    merging my featured branch back into master
+
+git status
+
+git push
+
+    Then move onto the next branch, so any changes are captured there.
+=====================
