@@ -1,34 +1,9 @@
 {
     "name": "group-a",
     "version": "1.0.1",
-    "author": "Michael Gokey <Michael.of.Gokey@gmail.com> (http://portfolio.gokemon.xyz/)",
+    "author": "Michael Gokey",
     "description": "connector application with a node api back-end",
     "license": "MIT",
-    "contributors": [{
-            "name": "Guy B",
-            "email": "guyb@example.com",
-            "url": "https://github.com/guyb",
-            "hireable": true
-        },
-        {
-            "name": "Guy C",
-            "email": "guyc@example.com",
-            "url": "https://github.com/guyc",
-            "hireable": true
-        },
-        {
-            "name": "Guy D",
-            "email": "guyd@example.com",
-            "url": "https://github.com/guyd",
-            "hireable": true
-        }
-    ],
-    "keywords": [
-        "mongo",
-        "express",
-        "node",
-        "api"
-    ],
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
